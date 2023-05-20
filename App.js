@@ -51,16 +51,23 @@ const App = () => {
   const [value, setValue] = useState('Hello @[Mary](2)! How are you?');
 
   return (
-    <SafeAreaView>
+    <SafeAreaView style={{backgroundColor: 'lightblue', height: '100%'}}>
       <MentionInput
+        containerStyle={{
+          height: 'auto',
+          margin: 4,
+          backgroundColor: 'white',
+          borderRadius: 20
+        }}
         value={value}
         onChange={setValue}
-
+        style={{ height: 'auto', backgroundColor: 'green' }}
         partTypes={[
           {
             trigger: '@',
             renderSuggestions: renderMentionSuggestions,
             isInsertSpaceAfterMention: true,
+            textStyle: {fontWeight: 'bold', color: 'blue', backgroundColor: 'white'},
           },
           {
             trigger: '#',
