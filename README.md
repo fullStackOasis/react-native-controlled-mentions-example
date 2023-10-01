@@ -1,12 +1,12 @@
 # react-native-controlled-mentions example
 
-This example is copied directly from the []() project (example folder).
+This example is copied directly from the [react-native-controlled-mentions](https://github.com/dabakovich/react-native-controlled-mentions/tree/master/example) project (example folder).
 
-There's just a small difference between this App.js and the other one:
-
-`isInsertSpaceAfterMention: true,`
+The file App.js has been removed, and replaced with App.tsx, and quite a lot of the original project is now different to accommodate the changes in https://github.com/dabakovich/react-native-controlled-mentions/releases/tag/v3.0.0-alpha.2
 
 ## Bug
+
+The bug demonstrated on the main branch is still here in this branch.
 
 There's a bug in this example, at least on Android.
 
