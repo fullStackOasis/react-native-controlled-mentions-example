@@ -40,6 +40,8 @@ See the entire text show up as a controlled mention, not just David's name. This
 
 There may be something specific to the text that causes the bug. I tried pasting this text - `Conquer anger with love, evil with good, meanness with generosity, and lies with truth` - and that did not demo the bug.
 
-https://github.com/fullStackOasis/react-native-controlled-mentions-example/assets/59945095/d91ab520-fe6a-4fab-87ff-b482b720a3e4
+New video for this branch!
+
+https://github.com/fullStackOasis/react-native-controlled-mentions-example/assets/59945095/085a83c2-1382-4561-8184-3f7e9b87ffa9
 
 Comment on September 30 2023: This bug is still an issue on Samsung Galaxy A71 5G running Android 13.
