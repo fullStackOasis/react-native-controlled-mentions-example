@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "18.1.0",
     "react-native": "0.70.9",
-    "react-native-controlled-mentions": "^2.2.5"
+    "react-native-controlled-mentions": "^3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
