@@ -51,3 +51,8 @@ The bug still exists. I cloned this project, and tried running it using the inst
 I had to make a small change to the code to see the text properly when I tested. To start, the app had a text input with a white background and white text. When I changed the background to black, I could see what I was doing, and reproduced the issue.
 
 As a note, I installed this using `npm install`, not `yarn`.
+
+I've added a new screen recording below:
+
+https://github.com/user-attachments/assets/a6d2dcd5-f420-425a-904c-0fa2fbc77125
+
