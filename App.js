@@ -56,7 +56,7 @@ const App = () => {
         containerStyle={{
           height: 'auto',
           margin: 4,
-          backgroundColor: 'white',
+          backgroundColor: 'black',
           borderRadius: 20
         }}
         value={value}

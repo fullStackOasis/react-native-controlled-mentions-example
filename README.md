@@ -43,3 +43,11 @@ There may be something specific to the text that causes the bug. I tried pasting
 https://github.com/fullStackOasis/react-native-controlled-mentions-example/assets/59945095/d91ab520-fe6a-4fab-87ff-b482b720a3e4
 
 Comment on September 30 2023: This bug is still an issue on Samsung Galaxy A71 5G running Android 13.
+
+# May 31 2025
+
+The bug still exists. I cloned this project, and tried running it using the instructions above. The device is still my Samsung Galaxy A71 5G running Android 13.
+
+I had to make a small change to the code to see the text properly when I tested. To start, the app had a text input with a white background and white text. When I changed the background to black, I could see what I was doing, and reproduced the issue.
+
+As a note, I installed this using `npm install`, not `yarn`.
