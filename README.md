@@ -44,7 +44,7 @@ https://github.com/fullStackOasis/react-native-controlled-mentions-example/asset
 
 Comment on September 30 2023: This bug is still an issue on Samsung Galaxy A71 5G running Android 13.
 
-# May 31 2025
+## May 31 2025
 
 The bug still exists. I cloned this project, and tried running it using the instructions above. The device is still my Samsung Galaxy A71 5G running Android 13.
 
@@ -55,4 +55,14 @@ As a note, I installed this using `npm install`, not `yarn`.
 I've added a new screen recording below:
 
 https://github.com/user-attachments/assets/a6d2dcd5-f420-425a-904c-0fa2fbc77125
+
+After upgrading to v3 of react-native-user-mentions, the bug still exists. This was done with commit 79c0b3c. All I really did was copy the example code from react-native-user-mentions. I didn't want to have to upgrade in steps. The bug persists.
+
+New screen recording with version 3 code:
+
+https://github.com/user-attachments/assets/d032f226-6e07-4ee3-ba65-aba3af19ca99
+
+
+
+
 
