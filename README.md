@@ -1,6 +1,6 @@
 # react-native-controlled-mentions example
 
-This example is copied directly from the []() project (example folder).
+This example is copied directly from the [react-native-controlled-mentions](https://github.com/dabakovich/react-native-controlled-mentions/tree/master/example) project (example folder).
 
 There's just a small difference between this App.js and the other one:
 
