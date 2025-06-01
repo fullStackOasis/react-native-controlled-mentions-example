@@ -62,7 +62,9 @@ New screen recording with version 3 code:
 
 https://github.com/user-attachments/assets/d032f226-6e07-4ee3-ba65-aba3af19ca99
 
+## June 1 2025 testing GBoard
 
+As requested by [David](https://github.com/dabakovich), I tried out [GBoard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en_US), the Google keyboard, by installing that app and then repeating the manul test process described above.
 
-
+Using Gboard "fixes" the bug! So, it appears that the problem is really due to the Samsung keyboard on Android, not a problem with react-native-user-mentions per se.
 
